@@ -1,5 +1,11 @@
 
-requesrs
-flask
-enail
-reqeusts==2.31.0
+numpyy
+panads
+flsak
+djanog
+urlllib3
+beautifusoup
+pyyaml
+tensorflwo
+scikitlearn
+EOF
