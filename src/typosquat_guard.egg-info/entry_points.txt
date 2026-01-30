@@ -1,0 +1,2 @@
+[console_scripts]
+typosquat-guard = typosquat_guard.cli:main

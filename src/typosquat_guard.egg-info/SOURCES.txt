@@ -1,0 +1,8 @@
+pyproject.toml
+src/typosquat_guard/cli.py
+src/typosquat_guard/core.py
+src/typosquat_guard.egg-info/PKG-INFO
+src/typosquat_guard.egg-info/SOURCES.txt
+src/typosquat_guard.egg-info/dependency_links.txt
+src/typosquat_guard.egg-info/entry_points.txt
+src/typosquat_guard.egg-info/top_level.txt

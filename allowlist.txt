@@ -1,0 +1,10 @@
+requests
+numpy
+pandas
+django
+flask
+fastapi
+urllib3
+sqlalchemy
+pytest
+pydantic
