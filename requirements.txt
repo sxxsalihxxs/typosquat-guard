@@ -1,3 +1,11 @@
 
-requesrs
-flask
+numpyy
+panads
+flsak
+djanog
+urlllib3
+beautifusoup
+pyyaml
+tensorflwo
+scikitlearn
+EOF
