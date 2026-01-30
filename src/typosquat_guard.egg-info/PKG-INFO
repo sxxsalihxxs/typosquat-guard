@@ -1,7 +1,0 @@
-Metadata-Version: 2.4
-Name: typosquat-guard
-Version: 0.1.0
-Summary: Detect typosquatting and suspicious packages in dependency files
-Author: Your Name
-Requires-Python: >=3.8
-Description-Content-Type: text/markdown
